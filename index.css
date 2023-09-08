@@ -1,0 +1,280 @@
+.slide-169-1-child {
+  position: absolute;
+  top: 0;
+  left: 1784px;
+  background-color: #3d4f70;
+  width: 136px;
+  height: 136px;
+}
+.bxbx-search-alt-2-icon,
+.feathermenu-icon {
+  position: absolute;
+  top: 48px;
+  left: 56px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.bxbx-search-alt-2-icon {
+  left: 1832px;
+}
+.home {
+  left: 960px;
+  font-weight: 600;
+}
+.food,
+.guide,
+.home,
+.places,
+.sign-in {
+  position: absolute;
+  top: 54px;
+  text-transform: uppercase;
+}
+.guide {
+  left: 1111px;
+  font-weight: 600;
+}
+.food,
+.places,
+.sign-in {
+  left: 1262px;
+}
+.food,
+.sign-in {
+  left: 1424px;
+  font-weight: 600;
+}
+.sign-in {
+  left: 1571px;
+}
+.slide-169-1-inner,
+.slide-169-1-item {
+  position: absolute;
+  top: 944px;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 757px;
+  height: 134px;
+}
+.slide-169-1-inner {
+  top: 377px;
+  left: 1262px;
+  width: 284px;
+  height: 90px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 136px;
+  left: 0;
+  width: 1784px;
+  height: 944px;
+  object-fit: cover;
+}
+.find-hotel,
+.tourist-blogs,
+.virtual-tour {
+  position: absolute;
+  top: 23px;
+  left: 0;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.find-hotel,
+.tourist-blogs {
+  left: 219px;
+}
+.find-hotel {
+  left: 452px;
+}
+.group-child,
+.group-item {
+  position: absolute;
+  top: -0.5px;
+  left: 403.5px;
+  border-right: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1px;
+  height: 76px;
+}
+.group-item {
+  left: 171.5px;
+}
+.virtual-tour-parent {
+  position: absolute;
+  top: 974px;
+  left: 96px;
+  width: 591px;
+  height: 75px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+}
+.t {
+  text-transform: uppercase;
+}
+.ravel-plan {
+  text-transform: lowercase;
+}
+.travel-plan {
+  position: absolute;
+  top: 400px;
+  left: 1461px;
+  font-size: var(--font-size-31xl);
+  font-weight: 600;
+  color: #170d51;
+  display: inline-block;
+  width: 268px;
+  height: 84px;
+}
+.group-icon {
+  position: absolute;
+  top: 402px;
+  left: 1834px;
+  width: 36px;
+  height: 361px;
+}
+.ministry-of-tourism {
+  margin: 0;
+}
+.ministry-of-tourism-container {
+  position: absolute;
+  top: 348px;
+  left: 91px;
+  font-size: var(--font-size-31xl);
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: var(--font-prompt);
+  color: var(--color-white);
+  text-align: center;
+}
+.rectangle-div {
+  position: absolute;
+  top: 506px;
+  left: 1021px;
+  background-color: var(--color-gray-100);
+  width: 762px;
+  height: 166px;
+}
+.faplane-icon {
+  position: absolute;
+  top: 570px;
+  left: 1107px;
+  width: 38px;
+  height: 38px;
+  overflow: hidden;
+}
+.ellipse-div {
+  position: absolute;
+  top: 538px;
+  left: 1452px;
+  border-radius: 50%;
+  border: 5px solid var(--color-white);
+  box-sizing: border-box;
+  width: 102px;
+  height: 102px;
+}
+.as-soon-as,
+.days,
+.vacations-plan {
+  position: absolute;
+  top: 597px;
+  left: 1574px;
+  text-transform: capitalize;
+  color: var(--color-white);
+}
+.as-soon-as,
+.vacations-plan {
+  top: 560px;
+  font-weight: 600;
+  color: var(--color-gray-200);
+}
+.as-soon-as {
+  left: 1197px;
+}
+.blank-line {
+  line-height: 27px;
+}
+.blank-line,
+.blank-line1 {
+  margin-block-start: 0;
+  margin-block-end: 15px;
+}
+.lorem-ipsum-dolor-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.lorem-ipsum-dolor-container {
+  position: absolute;
+  top: 540px;
+  left: 50px;
+  font-size: 27px;
+  text-transform: capitalize;
+  font-weight: 600;
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  width: 552px;
+  height: 274px;
+}
+.slide-169-1-child1 {
+  position: absolute;
+  top: 538px;
+  left: 1075px;
+  border-radius: 50%;
+  border: 5px solid var(--color-white);
+  box-sizing: border-box;
+  width: 102px;
+  height: 102px;
+}
+.mdibed-icon {
+  top: 568px;
+  left: 1479px;
+  width: 48px;
+  height: 42px;
+  overflow: hidden;
+}
+.icon,
+.line-div,
+.mdibed-icon {
+  position: absolute;
+}
+.line-div {
+  top: 91px;
+  left: 1280px;
+  border-top: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 52px;
+  height: 2px;
+}
+.icon {
+  top: 11px;
+  left: 817px;
+  width: 109px;
+  height: 114px;
+  object-fit: cover;
+}
+.slide-169-1 {
+  position: absolute;
+  top: calc(50% - 540px);
+  left: calc(50% - 934px);
+  background-color: var(--color-white);
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+}
+.slide-169-1-parent {
+  position: relative;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    #a28cf8,
+    #54bbea 51.04%,
+    #88e2d2
+  );
+  width: 100%;
+  height: 1408px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}
